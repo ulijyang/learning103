@@ -1,6 +1,6 @@
 == cp
 
-Copy files and directories to and from containers.
+Copy files and directories to and from containers using the following example.
 
 .Example: Copy a file from the `python-1-mz2rf` Pod to the local file system
 ----
